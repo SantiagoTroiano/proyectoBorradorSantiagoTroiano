@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    font-family: 'Rubik Pixels', cursive;
+}
+
+p.color-rojo{
+    color: red;
+}
+
+p.color-verde{
+    color: green;
+}
+
+img.width-img{
+    width: 170px;
+}
